@@ -1,0 +1,11 @@
+1) Problem 3. Видимость переменных/ Если я изменю внутреннюю переменную внутри функции, Изменится ли внешняя?
+    Ответ: (x: inout String)
+2) Строки являются массивами! С всем вытекающими методами и обращениями
+3) Problem 5: Что делает string.reduce {closure}? Что значат $ в closure?
+4) Problem 8: guard ???
+5) Problem 9: set.filter {closure}
+String interpolation produces a debug description for an optional value; did you mean to make this explicit?
+6) Problem 14: string.map {closure}
+7) Problem 25. ~x - побитовый оператор: побитовое меняет все знаки в двоичном представлении числа и возвращает десятичное число. ~64 = -65 
+8) Problem 26. extension Collection where Iterator.Element == Int
+9) Problem 28. Self.sorted { $0.count > $1.count }
